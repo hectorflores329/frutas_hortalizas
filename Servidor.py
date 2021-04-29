@@ -20,10 +20,10 @@ def Ciclo():
     if(len(Archivos) > 0):
         Actualizar_Datos(Archivos)
         # guardarRepositorio()
-        time.sleep(60 * 60 * 24)
+        # time.sleep(60 * 60 * 24)
     else:
         print("No hay datos que actualizar")
-        time.sleep(60 * 60 * 4)
+        #time.sleep(60 * 60 * 4)
     print("Ciclo completo")
     Ciclo()
 
