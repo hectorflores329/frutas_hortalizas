@@ -25,7 +25,7 @@ def Ciclo():
         print("No hay datos que actualizar")
         #time.sleep(60 * 60 * 4)
     print("Ciclo completo")
-    Ciclo()
+    # Ciclo()
 
 def Descargar_Archivos():
     fechaMaxima = Fecha_Actual_Fruta()
