@@ -299,3 +299,9 @@ def Fecha_Actual_Fruta():
 
 def Fecha_Actual_Hortaliza():
     return max(ref_hortalizas()["Fecha"])
+
+
+if __name__ == '__main__':
+    print('El proceso ha comenzado.')
+    Ciclo()
+    print('El proceso ha finalizado.')
