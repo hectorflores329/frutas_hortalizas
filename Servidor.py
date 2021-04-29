@@ -4,7 +4,7 @@ import datetime
 import wget
 from os import scandir, getcwd
 import openpyxl
-import git
+# import git
 import requests
 from os import remove
 
