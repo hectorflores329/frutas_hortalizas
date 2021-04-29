@@ -6,4 +6,4 @@ tweepy==3.9.0
 azure-ai-formrecognizer
 azure-ai-textanalytics
 wget
-git==2018.2.1
+python-git==2018.2.1
